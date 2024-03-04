@@ -34,11 +34,5 @@ I am a Full Stack Developer. My primary focus is on building web applications us
 
 ###
 
-<div align="left">
-</div>
 
-###
 
-<img src="https://raw.githubusercontent.com/bhushan-bobade/bhushan-bobade/output/snake.svg" alt="Snake animation" />
-
-###
