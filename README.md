@@ -5,8 +5,10 @@ I am a Full Stack Developer. My primary focus is on building web applications us
 * ✉️  You can contact me at [bhushanbobade2023@gmail.com](mailto:bhushanbobade2023@gmail.com)
 ###
 
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhushan-bobade&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhushan-bobade&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhushan-bobade&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -32,11 +34,11 @@ I am a Full Stack Developer. My primary focus is on building web applications us
 
 ###
 
+<div align="left">
+</div>
 
 ###
 
+<img src="https://raw.githubusercontent.com/bhushan-bobade/bhushan-bobade/output/snake.svg" alt="Snake animation" />
 
 ###
-
-
-
